@@ -1,5 +1,6 @@
 img {
   max-width: 100%;
+  /* max-height:  */
 }
 
 .site-header {
@@ -86,7 +87,7 @@ img {
 }
 
 .mdl-layout__content {
-  background-color: #fefefe;
+  background-color: #eeeeee;
 }
 
 .site-content {
@@ -178,6 +179,11 @@ img {
 
 .portfolio-card .mdl-card__title {
   padding-bottom: 0;
+}
+
+.mdl-card__media {
+  height: 183.09px;
+  overflow: hidden;
 }
 
 img.article-image {
